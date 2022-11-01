@@ -1,2 +1,0 @@
-# Communicat
-Android App 
